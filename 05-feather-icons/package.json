@@ -1,0 +1,7 @@
+{
+  "name": "05-feather-icons",
+  "version": "1.0.0",
+  "dependencies": {
+    "feather-icons": "^4.28.0"
+  }
+}
